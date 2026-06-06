@@ -1,4 +1,7 @@
 # 🍦 Responsive Ice Cream Navbar
+<p align="center">
+  <img src="assets/logo.png" alt="Ice Cream Logo" width="120">
+</p>
 
 A responsive navigation bar built using HTML and CSS for an ice cream-themed website. The project demonstrates modern web design principles including Flexbox, hover effects, and responsive layouts using CSS media queries.
 
