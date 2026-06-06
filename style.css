@@ -63,9 +63,6 @@ button:hover{
     transform: scale(1.1);
 }
 @media (max-width:768px) {
-    body{
-        background: red;
-    }
     nav{
         flex-direction: column;
         text-align: center;
